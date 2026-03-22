@@ -1,0 +1,38 @@
+.project-modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0,0,0,0.75);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.project-modal {
+  background: #111;
+  color: white;
+  padding: 30px;
+  max-width: 600px;
+  width: 90%;
+  border-radius: 12px;
+  position: relative;
+}
+
+.close-btn {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  font-size: 1.5rem;
+  background: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+.project-modal img {
+  width: 100%;
+  border-radius: 8px;
+  margin: 15px 0;
+}
