@@ -1,4 +1,4 @@
-import Modal from "react-modal";
+import Modal from "react-modal"; // Make sure react-modal is installed
 import "./ProjectDetailModal.css";
 
 type Props = {
