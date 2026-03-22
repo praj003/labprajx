@@ -44,7 +44,7 @@ function Aboutme() {
 
         {/* Experience Container */}
         <div className="about-container experience">
-          <h2>Career History </h2>
+          <h2>Career  </h2>
 
           <div className="experience-item">
             <h4>Custom Computer Specialists | Hauppauge NY | Dec 2025 - Present</h4>

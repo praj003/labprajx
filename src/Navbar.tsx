@@ -3,7 +3,15 @@ import "./Navbar.css";
 function Navbar() {
   return (
     <nav className="navbar">
-      <div className="logo">LPX</div>
+      
+      {/* Logo scrolls to top */}
+      <div
+        className="logo"
+        onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
+        style={{ cursor: "pointer" }}
+      >
+        LPX
+      </div>
 
       <ul className="nav-links">
         <li><a href="#about">About</a></li>
