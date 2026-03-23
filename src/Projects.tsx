@@ -35,6 +35,13 @@ const projects: Project[] = [
     links: "https://www.linkedin.com/in/prajwolshrestha1/",
   },
   {
+    title: "GradeBook",
+    description: "GradeBook - Application to manage, edit, and save grades",
+    image: "/GradeBook.png",
+    tech: ["Java", "JavaFX", "Scene Builder"],
+    links: "https://github.com/Praj003/GradeBook",
+  },
+  {
     title: "Adding More Soon",
     description: "  ",
     image: "/jellyfish.jpg",
