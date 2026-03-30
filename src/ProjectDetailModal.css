@@ -16,6 +16,8 @@
   padding: 30px;
   max-width: 600px;
   width: 90%;
+  max-height: 90vh;           /* ← Added this */
+  overflow-y: auto;           /* ← Added this */
   border-radius: 12px;
   position: relative;
 }
@@ -31,8 +33,14 @@
   cursor: pointer;
 }
 
+/* This is the most important part */
 .project-modal img {
-  width: 100%;
+  width: auto;
+  max-width: 100%;
+  max-height: 62vh;           /* ← Lowered more for you */
+  height: auto;
   border-radius: 8px;
-  margin: 15px 0;
+  margin: 20px auto;
+  display: block;
+  object-fit: contain;
 }
