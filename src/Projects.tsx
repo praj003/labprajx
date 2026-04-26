@@ -41,6 +41,15 @@ const projects: Project[] = [
     tech: ["React", "TypeScript", "CSS"],
     links: "https://www.linkedin.com/in/prajwolshrestha1/",
   },
+
+ {
+    title: "Calendar App",
+    description: "  ",
+    image: "/calendar-app.png",
+    tech: ["TypeScript", "CSS", "Supabase" ],
+    links: "https://calendar-app-rust-delta.vercel.app/",
+  },
+
   {
     title: "Adding More Soon",
     description: "  ",
