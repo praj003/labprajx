@@ -27,6 +27,15 @@ const projects: Project[] = [
     tech: ["React","JavaScript","Supabase"],
     links: "https://github.com/AaronScott2025/GameSpace",
   },
+
+ {
+    title: "Calendar App",
+    description: "  ",
+    image: "/calendar-app.png",
+    tech: ["TypeScript", "CSS", "Supabase" ],
+    links: "https://calendar-app-rust-delta.vercel.app/",
+  },
+
   {
     title: "GradeBook",
     description: "GradeBook - Application to manage, edit, and save grades",
@@ -40,14 +49,6 @@ const projects: Project[] = [
     image: "/linkedimpfp.png",
     tech: ["React", "TypeScript", "CSS"],
     links: "https://www.linkedin.com/in/prajwolshrestha1/",
-  },
-
- {
-    title: "Calendar App",
-    description: "  ",
-    image: "/calendar-app.png",
-    tech: ["TypeScript", "CSS", "Supabase" ],
-    links: "https://calendar-app-rust-delta.vercel.app/",
   },
 
   {
