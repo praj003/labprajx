@@ -26,11 +26,11 @@
 .about-container {
   max-width: 800px;
   width: 100%;
-  background: rgba(0, 0, 0, 0.4);
+  background: rgb(206, 206, 206);
   backdrop-filter: blur(6px);
   padding: 40px;
   border-radius: 15px;
-  color: white;
+  color: rgb(0, 0, 0);
 }
 .about-container p,
 .experience-item p,
@@ -39,7 +39,7 @@
   font-family: 'Jersey 10', sans-serif; /* match experience font */
   font-size: 1rem; /* same as experience items */
   line-height: 1.6;
-  color: white;
+  color: rgb(0, 0, 0);
   opacity: 0.9;
 }
 

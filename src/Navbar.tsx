@@ -10,7 +10,7 @@ function Navbar() {
         onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
         style={{ cursor: "pointer" }}
       >
-        LPX
+        Prajwol Shrestha
       </div>
 
       <ul className="nav-links">

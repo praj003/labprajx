@@ -14,13 +14,13 @@
 
   z-index: 1000;
 
-  /* transparent overlay */
-  background: transparent;
+  /* color overlay */
+  background: rgb(206, 206, 206);
 }
 
 /* Logo */
 .logo {
-  color: #00ff2a;
+  color: #000000;
   font-size: 1.5rem;
   font-weight: bold;
   letter-spacing: 1px;
@@ -34,7 +34,7 @@
 }
 
 .nav-links li a {
-  color: 00ff2a;
+  color: black;
   text-decoration: none;
   font-size: 1rem;
   position: relative;
@@ -46,7 +46,7 @@
   position: absolute;
   width: 0%;
   height: 2px;
-  background:  #00ff2a;
+  background:  #000000;
   left: 0;
   bottom: -5px;
   transition: 0.3s;

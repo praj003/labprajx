@@ -18,7 +18,7 @@ function Hero() {
         <h1>
           Lab<span className="highlight">PrajX</span>
         </h1>
-        <p> Level A Built Projects</p>
+        <p> Level A Built <span className="highlight">Projects</span> </p>
       </motion.div>
     </section>
   );
