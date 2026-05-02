@@ -48,7 +48,7 @@ const projects: Project[] = [
     description: "Portfolio - LabprajX website",
     image: "/linkedimpfp.png",
     tech: ["React", "TypeScript", "CSS"],
-    links: "https://www.linkedin.com/in/prajwolshrestha1/",
+    links: "https://labprajx.vercel.app/",
   },
 
   {
