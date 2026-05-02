@@ -62,7 +62,7 @@ function Aboutme() {
           <p>
           <br /><h2>Extracurriculars</h2>
           <strong>| Farmingdale State College | </strong><br /><br />
-          <strong>Machine Learning & AI Club | 2024 - 2025 | Secretary |</strong>
+          <strong>Machine Learning & AI Club | 2024 - 2025 | Secretary </strong>
           <br />
           <li>Assist in organizing biweekly
           presentations and coding
